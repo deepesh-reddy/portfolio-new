@@ -13,7 +13,7 @@ const testimonials = [
     },
     {
         id: 2,
-        name: "Your Mom",
+        name: "His Mom",
         title: "Chief Life Officer",
         review: "He's a good boy. He fixes the Wi-Fi every time it breaks. Very reliable.",
         rating: 5,
